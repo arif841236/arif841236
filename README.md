@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Arif</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/arif841236/portfolio1)
+- 🔭 I’m currently working on [E-KYC OCR and Authentication Service](https://github.com/arif841236/e-kyc-digilocker-ocr)
 
 - 🌱 I’m currently learning **Spring boot**
 
